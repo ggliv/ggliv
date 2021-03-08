@@ -1,6 +1,6 @@
 <a href="https://ggliv.com"><img align="right" src="banner.png"></a>
 
-# Hello! I'm Gabe.
+# Hi. I'm Gabe.
 I'm a highschool student in Georgia looking to learn more about programming and computer science
 
 Here's a little bit about me:
