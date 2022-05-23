@@ -1,13 +1,13 @@
 <a href="https://ggliv.com"><img align="right" src="banner.png"></a>
 
 # Hi. I'm Gabe.
-I'm a highschool student in Georgia looking to learn more about programming and computer science
+I'm an undergraduate Computer Science major at Kennesaw State University looking to learn more about anything related to computers.
 
 Here's a little bit about me:
-- 🌱 **Learning** Java, Python, Bash, OOP
+- 🌱 **Learning** Rust, C(++), C#, Java, Python
 - 🫀 **Loving** [PICO-8](https://www.lexaloffle.com/pico-8.php), [BeepBox](https://github.com/johnnesky/beepbox), [youtube-dl](https://github.com/ytdl-org/youtube-dl), [Slippi Online](https://github.com/project-slippi/Ishiiruka), [osu!](https://github.com/ppy/osu)
 - 😄 **Pronouns:** he/him
-- ⚡ **Fun fact:** My favorite music genre is prog/math rock
+- ⚡ **Fun fact:** I love pretty much any music with a guitar and drums in it... please feel free to send me music recommendations, I'm always looking for something new to listen to.
 
 [![website badge](https://img.shields.io/badge/my-website-blue)][website]
 [![email me badge](https://img.shields.io/badge/email-me-lightgrey)][email]
