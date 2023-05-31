@@ -1,17 +1,16 @@
 <a href="https://ggliv.com"><img align="right" src="banner.png"></a>
 
-# Hi. I'm Gabe.
-I'm an undergraduate Computer Science major at Kennesaw State University looking to learn more about anything related to computers.
+# Heya. I'm Gabe.
+I'm an undergraduate computer science student that loves getting lost in the implementation details.
 
 Here's a little bit about me:
-- 🌱 **Learning** Rust, C(++), C#, Java, Python
-- 🫀 **Loving** [PICO-8](https://www.lexaloffle.com/pico-8.php), [BeepBox](https://github.com/johnnesky/beepbox), [youtube-dl](https://github.com/ytdl-org/youtube-dl), [Slippi Online](https://github.com/project-slippi/Ishiiruka), [osu!](https://github.com/ppy/osu)
-- 😄 **Pronouns:** he/him
-- ⚡ **Fun fact:** I love pretty much any music with a guitar and drums in it... please feel free to send me music recommendations, I'm always looking for something new to listen to.
+- 🌱 **Learning:** Rust, C(++), Svelte, emulation, how to teach others
+- 💜 **Loving:** LaTeX, [Neovim](https://github.com/neovim/neovim), [yt-dlp](https://github.com/yt-dlp/yt-dlp), [Dolphin](https://github.com/dolphin-emu/dolphin), [Quod Libet](https://github.com/quodlibet/quodlibet)
+- ⚡ **Fun fact:** I'm a huge music junkie. Feel free to send me some of your favorite soundwaves.
 
 [![website badge](https://img.shields.io/badge/my-website-blue)][website]
 [![email me badge](https://img.shields.io/badge/email-me-lightgrey)][email]
-[![github badge](https://img.shields.io/github/followers/ggliv?label=follow&style=social)](https://github.com/ggliv)
+[![github follow badge](https://img.shields.io/github/followers/ggliv?label=follow&style=social)](https://github.com/ggliv)
 
 
 [website]: https://ggliv.com
