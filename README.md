@@ -1,7 +1,7 @@
 <a href="https://ggliv.com"><img align="right" src="banner.png"></a>
 
 # Heya. I'm Gabe.
-I'm an undergraduate computer science student that loves getting lost in the implementation details.
+I'm an undergraduate computer science student who loves getting lost in the implementation details.
 
 Here's a little bit about me:
 - 🌱 **Learning:** Rust, C(++), Svelte, emulation, how to teach others
